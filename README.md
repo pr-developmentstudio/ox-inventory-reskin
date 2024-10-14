@@ -1,4 +1,4 @@
-# OX Inventory Restyle
+# OX Inventory Reskin
 
 We are beyond thrilled to unveil our latest project: TOTAL RESKIN of OX_INVENTORY!
 
