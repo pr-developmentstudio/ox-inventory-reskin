@@ -7,4 +7,5 @@ This reskin is PACKED with new features, sound effects and smoother functions to
 We've poured our passion into every detail to ensure flawless integration and a stunning look! 
 
 
-![inventorythumb5](https://github.com/user-attachments/assets/e0226d4b-b2ef-460f-9719-91664f619c27)
+
+![inventorythumb6](https://github.com/user-attachments/assets/be4b6f9c-b91c-4737-8043-ce2bf35b650c)
