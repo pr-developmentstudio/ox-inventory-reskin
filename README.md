@@ -6,11 +6,11 @@ This reskin is PACKED with new features, sound effects and smoother functions to
 
 We've poured our passion into every detail to ensure flawless integration and a stunning look! 
 
-** UPDATE ox_inventory\modules **
+# UPDATE ox_inventory\modules 
 
 - Drag and drop the clothing folder
 
-** UPDATE ox_inventory fxmanifest **
+# UPDATE ox_inventory fxmanifest
 
 - Drag and drop the fxmanifest
 
