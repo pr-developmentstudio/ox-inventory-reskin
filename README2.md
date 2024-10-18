@@ -1,6 +1,7 @@
 This repository contains a custom reskin of the ox_inventory for FiveM, with an enhanced interface and a seamlessly integrated clothing menu. The goal of this reskin is to provide a more visually appealing and user-friendly experience while maintaining the functionality and flexibility of the original ox_inventory.
 
-Features
+Features:
+
 -Enhanced Interface:
 
    -Redesigned UI elements to deliver a cleaner and more modern appearance.
@@ -15,15 +16,15 @@ Features
 
 Install guide:
 
-   QB-Core: 
-      -You must install the ox_inventory v2.41.0, as it was the last version that included the qb-core bridge.
-      -Drag and replace the <modules> and <fxmanifest.lua> onto the main directory of ox_inventory. 
-      -Drag the <build> onto the <web> directory of ox_inventory and replace.
-      -You should be ready to go! Enjoy!
-   ND/ESX/QBOX:
-      -Just drag and replace the <modules> and <fxmanifest.lua> onto the main ox_inventory directory.
-      -Drag the <build> onto the <web> directory of ox_inventory and replace.
-      -You should be ready to go! Enjoy!
+QB-Core: 
+   -You must install the ox_inventory v2.41.0, as it was the last version that included the qb-core bridge.
+   -Drag and replace the <modules> and <fxmanifest.lua> onto the main directory of ox_inventory. 
+   -Drag the <build> onto the <web> directory of ox_inventory and replace.
+   -You should be ready to go! Enjoy!
+ND/ESX/QBOX:
+   -Just drag and replace the <modules> and <fxmanifest.lua> onto the main ox_inventory directory.
+   -Drag the <build> onto the <web> directory of ox_inventory and replace.
+   -You should be ready to go! Enjoy!
 
 # DISCORD.GG/PR-Development
 
