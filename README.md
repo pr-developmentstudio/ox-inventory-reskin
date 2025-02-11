@@ -32,7 +32,7 @@ This repository contains a custom reskin of the **ox_inventory** for FiveM, feat
 ## Join the Community
 
 If you need help or want to contribute, feel free to join our Discord:  
-[DISCORD.GG/PR-Development](https://discord.gg/PR-Development)
+[DISCORD.GG/PR-Development]((https://discord.gg/Af5ve8GCT8))
 
 ## Preview
 
